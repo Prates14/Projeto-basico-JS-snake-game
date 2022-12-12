@@ -1,0 +1,14 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 90hv;
+    width: 90hv;
+    color: aqua;
+    background-color: rgba(0, 0, 0, 0.863);
+}
+
+body canvas {
+    box-shadow: 7px 8px black;
+}
